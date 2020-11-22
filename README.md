@@ -1,3 +1,3 @@
 # docopt_demo
 
-README.md
+Welcome to my docopt demo!
